@@ -302,36 +302,41 @@ footer >p{
         flex-wrap: wrap;
       
     }
-
-    .user >input{
+.user >input{
        width: 250px;
-       margin-right: 320px;
+       margin-right: 500px;
+       margin-left: 120px;
+     
        
 }
 .subject >input{
     width: 250px;
-    margin-right: 350px;
+    margin-right: 530px;
+    margin-left: 120px;
+  
     
 }
 .message >textarea{
     width: 250px;
-    margin-right: 320px;
+    margin-right: 500px;
+    margin-left: 120px;
+
     
 }
 
 .user >.lab{
-    margin-left: 40px;
+    margin-left: 120px;
     
 }
 
 .subject >.sab{
-    margin-left: 40px;
+    margin-left: 120px;
 }
 
 .message >.kab{
-    margin-left: 40px;
+    margin-left: 120px;
 }
-
+   
 
 .but{
     margin-left: 100px;
