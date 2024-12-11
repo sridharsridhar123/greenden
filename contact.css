@@ -304,17 +304,17 @@ footer >p{
     }
 
     .user >input{
-       width: 400px;
+       width: 250px;
        margin-right: 320px;
        
 }
 .subject >input{
-    width: 400px;
+    width: 250px;
     margin-right: 350px;
     
 }
 .message >textarea{
-    width: 400px;
+    width: 250px;
     margin-right: 320px;
     
 }
