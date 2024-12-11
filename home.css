@@ -651,7 +651,7 @@ footer >p{
 
 header >.con{
 
-   font-size: 8px;
+   font-size: 12px;
     margin-top: 3px;
     text-align: center;
     display: flex;
@@ -697,8 +697,9 @@ align-items: center;
 
 
 .join >.more{
-    font-size: 15px;
+    font-size: 12px;
     display: flex;
+    text-align:center;
 align-items: center;
 justify-content: center;
 }
