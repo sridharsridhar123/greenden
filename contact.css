@@ -305,36 +305,36 @@ footer >p{
 .user >input{
        width: 250px;
        margin-right: 500px;
-       margin-left: 120px;
+       margin-left: 70px;
      
        
 }
 .subject >input{
     width: 250px;
     margin-right: 530px;
-    margin-left: 120px;
+    margin-left: 70px;
   
     
 }
 .message >textarea{
     width: 250px;
     margin-right: 500px;
-    margin-left: 120px;
+    margin-left: 70px;
 
     
 }
 
 .user >.lab{
-    margin-left: 120px;
+    margin-left: 70px;
     
 }
 
 .subject >.sab{
-    margin-left: 120px;
+    margin-left: 70px;
 }
 
 .message >.kab{
-    margin-left: 120px;
+    margin-left: 70px;
 }
    
 
