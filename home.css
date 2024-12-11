@@ -96,7 +96,7 @@ nav >.icon{
     color: white;
     font-size: 20px;
    
-transition: 2s;
+transition: 0.6s;
 }
 
 .side-navbar-links >ul >li {
