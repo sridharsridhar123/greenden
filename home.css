@@ -650,8 +650,12 @@ footer >p{
 }
 
 header >.con{
-    font-size: 15px;
+
+   font-size: 10px;
     margin-top: 3px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 .module {
